@@ -1,7 +1,7 @@
 # Projeto Base - Vita
 
 <p align="center">
-  <img src="frontend/src/assets/images/_login.svg" alt="Logo Vita" width="200"/>
+  <img src="https://github.com/yurivfernandes/projeto-base-vita/blob/main/frontend/src/assets/logo_login.svg" alt="Logo Vita" width="200"/>
 </p>
 
 ## Sobre o Projeto
